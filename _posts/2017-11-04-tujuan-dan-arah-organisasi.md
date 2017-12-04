@@ -1,6 +1,4 @@
-# Tujuan dan Arah Organisasi
 
-##
 Salam Dev,
 
 Tujuan di bentuknya organisasi ini adalah buat di jadiin wadah buat temen-temen bereksplorasi, belajar hal baru,
@@ -18,7 +16,7 @@ temen - temen dari daerah lain untuk ikut, kita sangat terbuka untuk hal ini.
 Berharap juga, apa saja yang di buat nanti sesuai dengan Design Pattern dan Arsitektur yang sudah ada.
 Apa yang pengin dibuat bebas menggunakan Bahasa Pemrograman apapun.
 
-##
+
 Posting,
 
 Buat temen-temen yang pengin posting di website ini, caranya gampang
