@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Golang Fetch Azure Table Storage"
 title_header: Blog
-date: 2017-09-12
+date: 2017-12-21
 ---
 
 <H3>How To Fetch Data from Azure Table Storage using Golang</H3>

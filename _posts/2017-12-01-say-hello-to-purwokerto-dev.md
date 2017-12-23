@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Say Hello to Purwokerto Dev's Site
 date: 2017-12-01
 ---

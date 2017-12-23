@@ -1,3 +1,9 @@
+---
+layout: post
+comments: true
+title: Tujuan dan Arah Organisasi
+date: 2017-11-04
+---
 
 Salam Dev,
 

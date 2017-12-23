@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Set up Development Environment Untuk Memulai Coding Golang di Windows"
 title_header: Blog
-date: 2017-04-30
+date: 2017-12-23
 ---
 
 <h3>Instalasi</h3>
